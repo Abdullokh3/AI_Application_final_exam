@@ -2,16 +2,14 @@
 
 WEEK_10_LAB_ALL_PARTS: 
 
-Deeper CNNs as well as Pretrained Models 
-• VGGNet
-• GoogLeNet
-• ResNet
-• Transfer Learning
-• Data Augmentation as a Regularization Technique
-• Mistakes made by CNNs
-• Reducing parameters with Depthwise Separable Convolution
-• Striking the right network design balance with EfficientNet
-
+Deeper CNNs as well as Pretrained Models.
+In the lab, we imported required libraries and the torch. Torch device was also defined. 
+Using transform lib, we also loaded, processed, and resized the image. 
+Parameters are documented at pytorch.org. we also learned about  VGGNet, GoogLeNet, ResNet
+, Transfer Learning
+, Data Augmentation as a Regularization Technique
+, Mistakes made by CNNs
+, Reducing parameters with Depthwise Separable Convolution , Striking the right network design balance with EfficientNet
 
 WEEK_11_LAB: TORCHVISION:
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_11/Week_11_.ipynb
