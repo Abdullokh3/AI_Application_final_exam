@@ -1,6 +1,8 @@
 # AI_Application_
 
-WEEK_13
+WEEK_13_LAB1:
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_13/Week_13_lab_1.ipynb
+WEEK_13_LAB2:
 
 We practiced layers in week 13 using TextVectorization 
 layer and the Vectorizer class. We visualized the vocabulary
