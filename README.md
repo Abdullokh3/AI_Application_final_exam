@@ -1,8 +1,8 @@
 # AI_Application_
 
-WEEK_12_LAB_ALL_PARTS: Simple LSTM-based model
-
-
+WEEK_12_LAB: Simple LSTM-based model
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_12/Week_12.ipynb
+<img width="1280" alt="Screenshot 2022-12-09 at 5 40 02 PM" src="https://user-images.githubusercontent.com/90837231/206660573-a7fb0be5-32d4-4c06-bc09-3128461b640e.png">
 We train and collect data from the Jena-clinate in the lab during week 12. 
 We first downloaded the necessary data from the Keras dataset and
 os was imported and opened for reading. We used to plot the graph. 
