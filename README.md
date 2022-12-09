@@ -1,7 +1,8 @@
 # AI_Application_
 
-WEEK_11_BOTH_PARTS_:
-
+WEEK_11_LAB: TORCHVISION:
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_11/Week_11_.ipynb
+<img width="1280" alt="Screenshot 2022-12-09 at 5 47 15 PM" src="https://user-images.githubusercontent.com/90837231/206662088-086ffbff-a442-4d76-9e6b-c39603354d90.png">
 In week 11, datagenerators were saved as a file to the colab working directory. 
 Read the data, then divide it into train and test sets. We also import pandas. 
 to read sales data from book stores and plot it. 
