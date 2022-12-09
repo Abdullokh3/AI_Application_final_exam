@@ -1,5 +1,19 @@
 # AI_Application_
 
+WEEK_11_BOTH_PARTS_:
+
+In week 11, datagenerators were saved as a file to the colab working directory. 
+Read the data, then divide it into train and test sets. We also import pandas. 
+to read sales data from book stores and plot it. 
+Graph the dataset. 
+Plot naive prediction. 
+the data used to train and test be uniform. Custom layer that retrieves . 
+RNN output's sole remaining time step. 
+Create a RNN model and train examples. 
+Make test examples for the optimizer, loss function, and so on. 
+Make Dataset objects. Using standardized data, make an naive prediction. and
+train the simulation.
+
 WEEK_12_LAB: Simple LSTM-based model
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_12/Week_12.ipynb
 <img width="1280" alt="Screenshot 2022-12-09 at 5 40 02 PM" src="https://user-images.githubusercontent.com/90837231/206660573-a7fb0be5-32d4-4c06-bc09-3128461b640e.png">
