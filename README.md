@@ -1,6 +1,12 @@
 # AI_Application_
 
-WEEK_10_LAB_ALL_PARTS: 
+WEEK_9_LAB_BOTH_PARTS: (TENSORFLOW)
+
+From tensorflow keras, we imported TensorFlow here, along with related datasets. 
+We imported numpy as well. EPOCHS and BATCH_SIZE are adjusted appropriately. Primarily, we learned about  Logistic unit for binary classification, Softmax unit for multiclass classification, Linear unit for regression, The Boston Housing dataset, Predicting house prices with a DNN, Improving generalization with regularization, Experiment: Deeper and regularized models for house price prediction, Concluding remarks on output units and regression problems
+
+
+WEEK_10_LAB_ALL_PARTS: (TORCHVISION)
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10.ipynb
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10_Lab_2.ipynb
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10_Lab_3.ipynb
