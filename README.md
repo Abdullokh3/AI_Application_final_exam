@@ -1,7 +1,7 @@
 # AI_Application_
 
 WEEK_14_LAB_PART1:
-
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_14/Week_14_part1_transformer.ipynb
 In the first section of the week 14 lab, we learned about  Transformer architecture. 
 To understand self-attention
 the generalized self-attention -> query-key-value model. 
