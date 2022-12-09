@@ -1,5 +1,20 @@
 # AI_Application_
 
+WEEK_14_LAB_PART1:
+
+In the first section of the week 14 lab, we learned about  Transformer architecture. 
+To understand self-attention
+the generalized self-attention -> query-key-value model. 
+focus with multi heads. 
+The Transformer encoder 
+In order to get started, we download some files from IMDB and some Stanford.edu data. 
+After that, we prepared the data by including the necessary libraries, including OS and Pathlib. 
+Random, TensorFlow, and Shutil. Transformation encoder and data vectorization. 
+Implementation as a subclassed Layer is what comes next. 
+A transformer encoder for text classification was trained and evaluated. 
+model of the Transformer that is encoder-based. The next stage involves using positional encoding to implement positional embedding and re-inject order information. 
+To put it all together, a text-classification Transformer is required for an underclassified layer. 
+Combining positional embedding and the Transformer encoder.
 
 
 
