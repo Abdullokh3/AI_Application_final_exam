@@ -18,3 +18,4 @@ The TransformerDecoder and The TransformerEncoder first appeared in our definiti
 A machine translation transformer is the conclusion. 
 After training the sequence-to-sequence Transformer, 
 Our Transformer model allows us to translate new sentences.
+<img width="1280" alt="Screenshot 2022-12-09 at 5 11 20 PM" src="https://user-images.githubusercontent.com/90837231/206655597-8b5e92ed-c241-430b-867d-02ae97331605.png">
