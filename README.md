@@ -3,7 +3,7 @@
 
 
 
-WEEK_14: 
+WEEK_14_LAB_PART2: https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_14/Week_14_Lab_part2.ipynb
 Part 2 of the Lab for Week 14 lessons will cover learning from sequence to sequence. 
 We began by obtaining the necessary data files from Tensorflow. Next,
 num_val_samples and num_train_Preparing are a few defined variables. 
