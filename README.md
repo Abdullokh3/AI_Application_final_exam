@@ -1,9 +1,9 @@
 # AI_Application_
 
-WEEK_13_LAB1:
+WEEK_13_LAB1: TORCHVISION
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_13/Week_13_lab_1.ipynb
 <img width="1280" alt="Screenshot 2022-12-09 at 5 29 54 PM" src="https://user-images.githubusercontent.com/90837231/206659042-26a5d079-ba26-487b-ba54-c8bab87a3f95.png">
-WEEK_13_LAB2:
+WEEK_13_LAB2: TORCHVISION
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_13/Week_13_lab_2.ipynb
 <img width="1280" alt="Screenshot 2022-12-09 at 5 30 31 PM" src="https://user-images.githubusercontent.com/90837231/206659098-17c8b2f4-6ddb-4355-ad88-994c393a69f3.png">
 We practiced layers in week 13 using TextVectorization 
