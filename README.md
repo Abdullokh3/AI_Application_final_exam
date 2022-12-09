@@ -1,5 +1,21 @@
 # AI_Application_
 
+WEEK_12_LAB_ALL_PARTS: Simple LSTM-based model
+
+
+We train and collect data from the Jena-clinate in the lab during week 12. 
+We first downloaded the necessary data from the Keras dataset and
+os was imported and opened for reading. We used to plot the graph. 
+Calculate the number of samples we'll use for with matplotlib. 
+split up each data set, normalize the data, etc. 
+creating datasets for testing, validation, and training. 
+examining one of our datasets' results. 
+calculating the common sense baseline MAE. 
+developing and testing a densely connected model. 
+In addition, results of the loss and val_loss were plotted. 
+AND experimenting with a Simple LSTM-based model and a 1D convolution model.
+
+
 WEEK_13_LAB1: TORCHVISION
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_13/Week_13_lab_1.ipynb
 <img width="1280" alt="Screenshot 2022-12-09 at 5 29 54 PM" src="https://user-images.githubusercontent.com/90837231/206659042-26a5d079-ba26-487b-ba54-c8bab87a3f95.png">
