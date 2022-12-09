@@ -1,5 +1,18 @@
 # AI_Application_
 
+WEEK_10_LAB_ALL_PARTS: 
+
+Deeper CNNs as well as Pretrained Models 
+• VGGNet
+• GoogLeNet
+• ResNet
+• Transfer Learning
+• Data Augmentation as a Regularization Technique
+• Mistakes made by CNNs
+• Reducing parameters with Depthwise Separable Convolution
+• Striking the right network design balance with EfficientNet
+
+
 WEEK_11_LAB: TORCHVISION:
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_11/Week_11_.ipynb
 <img width="1280" alt="Screenshot 2022-12-09 at 5 47 15 PM" src="https://user-images.githubusercontent.com/90837231/206662088-086ffbff-a442-4d76-9e6b-c39603354d90.png">
