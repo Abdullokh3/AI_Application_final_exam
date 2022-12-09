@@ -1,5 +1,17 @@
 # AI_Application_
 
+WEEK_13
+
+We practiced layers in week 13 using TextVectorization 
+layer and the Vectorizer class. We visualized the vocabulary
+useing get_vocabulary() and text_vectorization. Then we downloaded required data.
+showing shapes as well as datatypes of the first batch, 
+Process words in groups: single words, bag of words method. 
+For (unigrams), a binary encoding is used. 
+Using a text vectorization layer to pre-process our datasets. 
+Train and test the binary unigram model. 
+Build and test a binary bigram model. And training as well as testing of TF-IDF bigram models.
+
 WEEK_14_LAB_PART1:
 https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_14/Week_14_part1_transformer.ipynb
 In the first section of the week 14 lab, we learned about  Transformer architecture. 
