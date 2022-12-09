@@ -1,7 +1,10 @@
 # AI_Application_
 
 WEEK_10_LAB_ALL_PARTS: 
-
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10.ipynb
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10_Lab_2.ipynb
+https://github.com/Abdullokh3/AI_Application_final_exam/blob/main/week_10/Week_10_Lab_3.ipynb
+<img width="1280" alt="Screenshot 2022-12-09 at 5 58 21 PM" src="https://user-images.githubusercontent.com/90837231/206664034-7787fc2a-c199-4b41-aeff-4fd2bd9b2e25.png">
 Deeper CNNs as well as Pretrained Models.
 In the lab, we imported required libraries and the torch. Torch device was also defined. 
 Using transform lib, we also loaded, processed, and resized the image. 
